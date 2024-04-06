@@ -1,0 +1,19 @@
+{
+  "manifestVersion": 5,
+  "id": "Tcave.TcavesInterchangeContractPulpwood",
+  "name": "T-cave's Interchange Contract Pulpwood",
+  "version": "0.9.3",
+  "requires": [
+    {
+      "id": "railloader",
+      "notBefore": "1.7.2"
+    },
+    {
+      "id": "Zamu.StrangeCustoms",
+      "notBefore": "1.6"
+    }
+  ],
+  "mixintos": {
+    "game-graph": "file(TcavesInterchangeContractPulpwood.json)"
+  }
+}
