@@ -2,7 +2,7 @@
   "manifestVersion": 5,
   "id": "Tcave.TcavesInterchangeContractPulpwood",
   "name": "T-cave's Interchange Contract Pulpwood",
-  "version": "0.9.3",
+  "version": "0.1.0",
   "requires": [
     {
       "id": "railloader",
