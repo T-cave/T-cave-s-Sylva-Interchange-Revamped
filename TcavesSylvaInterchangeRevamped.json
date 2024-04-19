@@ -1,0 +1,582 @@
+{
+	"nodes": {
+		"Niid": {
+			"position": {
+				"x": 26273.9336,
+				"y": 634.7602,
+				"z": 865.9
+			},
+			"rotation": {
+				"x": 359.2032,
+				"y": 53.839138,
+				"z": 2.6683006E-08
+			},
+			"flipSwitchStand": false
+		},
+		"Nqqs": {
+			"position": {
+				"x": 26295.2988,
+				"y": 635.1078,
+				"z": 879.035339
+			},
+			"rotation": {
+				"x": 359.2032,
+				"y": 44.8391342,
+				"z": -2.6683006E-08
+			},
+			"flipSwitchStand": false
+		},
+		"Nys5": {
+			"position": {
+				"x": 26276.293,
+				"y": 634.7602,
+				"z": 862.670532
+			},
+			"rotation": {
+				"x": 359.2032,
+				"y": 53.839138,
+				"z": 2.6683006E-08
+			},
+			"flipSwitchStand": false
+		},
+		"NTSIR_Sylva_Intechange_Revamp_x2r5": {
+			"position": {
+				"x": 26258.4688,
+				"y": 634.4126,
+				"z": 844.69104
+			},
+			"rotation": {
+				"x": 359.2032,
+				"y": 53.839138,
+				"z": 2.6683006E-08
+			},
+			"flipSwitchStand": false
+		},
+		"NTSIR_Sylva_Intechange_Revamp_efp0": {
+			"position": {
+				"x": 26277.6719,
+				"y": 634.7602,
+				"z": 861.3098
+			},
+			"rotation": {
+				"x": 359.2032,
+				"y": 44.8391342,
+				"z": 0.0
+			},
+			"flipSwitchStand": false
+		},
+		"Nd5f": {
+			"position": {
+				"x": 26294.1152,
+				"y": 635.1078,
+				"z": 880.649963
+			},
+			"rotation": {
+				"x": 359.2032,
+				"y": 53.839138,
+				"z": 2.6683006E-08
+			},
+			"flipSwitchStand": true
+		},
+		"NTSIR_Sylva_Intechange_Revamp_us3d": {
+			"position": {
+				"x": 26272.75,
+				"y": 634.7602,
+				"z": 867.514648
+			},
+			"rotation": {
+				"x": 359.2032,
+				"y": 62.83913,
+				"z": 0.0
+			},
+			"flipSwitchStand": true
+		},
+		"Nmjn": {
+			"position": {
+				"x": 26251.3848,
+				"y": 634.4126,
+				"z": 854.379333
+			},
+			"rotation": {
+				"x": 359.2032,
+				"y": 53.839138,
+				"z": 2.6683006E-08
+			},
+			"flipSwitchStand": false
+		},
+		"NTSIR_Sylva_Intechange_Revamp_8o4t": {
+			"position": {
+				"x": 26228.8379,
+				"y": 634.065,
+				"z": 842.8587
+			},
+			"rotation": {
+				"x": 359.2032,
+				"y": 53.839138,
+				"z": 2.6683006E-08
+			},
+			"flipSwitchStand": false
+		},
+		"NTSIR_Sylva_Intechange_Revamp_gqms": {
+			"position": {
+				"x": 26250.5137,
+				"y": 634.4126,
+				"z": 856.1035
+			},
+			"rotation": {
+				"x": 359.2032,
+				"y": 62.83912,
+				"z": 1.06732024E-07
+			},
+			"flipSwitchStand": false
+		},
+		"NTSIR_Sylva_Intechange_Revamp_nxr7": {
+			"position": {
+				"x": 25638.29,
+				"y": 630.0,
+				"z": 404.066559
+			},
+			"rotation": {
+				"x": 0.0,
+				"y": 44.83318,
+				"z": 0.0
+			},
+			"flipSwitchStand": false
+		},
+		"NTSIR_Sylva_Intechange_Revamp_t5d9": {
+			"position": {
+				"x": 25655.916,
+				"y": 630.0,
+				"z": 421.7956
+			},
+			"rotation": {
+				"x": 0.0,
+				"y": 44.83318,
+				"z": 0.0
+			},
+			"flipSwitchStand": false
+		},
+		"Nf8a": {
+			"position": {
+				"x": 25657.2871,
+				"y": 630.0,
+				"z": 420.4346
+			},
+			"rotation": {
+				"x": 0.0,
+				"y": 53.8331833,
+				"z": 0.0
+			},
+			"flipSwitchStand": false
+		},
+		"NTSIR_Sylva_Intechange_Revamp_7hv4": {
+			"position": {
+				"x": 25675.11,
+				"y": 630.0,
+				"z": 438.417267
+			},
+			"rotation": {
+				"x": 0.0,
+				"y": 53.8331833,
+				"z": 0.0
+			},
+			"flipSwitchStand": false
+		},
+		"NTSIR_Sylva_Intechange_Revamp_4ezh": {
+			"position": {
+				"x": 25620.459,
+				"y": 630.0,
+				"z": 386.084
+			},
+			"rotation": {
+				"x": 0.0,
+				"y": 62.83317,
+				"z": 0.0
+			},
+			"flipSwitchStand": true
+		},
+		"NTSIR_Sylva_Intechange_Revamp_pk4h": {
+			"position": {
+				"x": 25642.7,
+				"y": 630.0,
+				"z": 397.498566
+			},
+			"rotation": {
+				"x": 0.0,
+				"y": 62.8331566,
+				"z": 0.0
+			},
+			"flipSwitchStand": false
+		},
+		"NTSIR_Sylva_Intechange_Revamp_1unk": {
+			"position": {
+				"x": 25664.3633,
+				"y": 630.0,
+				"z": 410.746918
+			},
+			"rotation": {
+				"x": 0.0,
+				"y": 53.8331833,
+				"z": 0.0
+			},
+			"flipSwitchStand": false
+		},
+		"Nlfg": {
+			"position": {
+				"x": 25619.2871,
+				"y": 630.0,
+				"z": 387.698578
+			},
+			"rotation": {
+				"x": 0.0,
+				"y": 53.8331833,
+				"z": 0.0
+			},
+			"flipSwitchStand": false
+		},
+		"N2o5": {
+			"position": {
+				"x": 25641.8223,
+				"y": 630.0,
+				"z": 399.222748
+			},
+			"rotation": {
+				"x": 0.0,
+				"y": 53.8331833,
+				"z": 0.0
+			},
+			"flipSwitchStand": false
+		},
+		"NAN_Sylva_Interchange_Yard_T0_00": {
+			"position": {
+				"x": 25673.54,
+				"y": 630.0,
+				"z": 439.52
+			},
+			"rotation": {
+				"x": 0.0,
+				"y": 44.8331833,
+				"z": 0.0
+			},
+			"flipSwitchStand": false
+		},
+		"NAN_Sylva_Interchange_Yard_T0_01": {
+			"position": {
+				"x": 25692.80,
+				"y": 630.0,
+				"z": 456.49
+			},
+			"rotation": {
+				"x": 0.0,
+				"y": 53.8331833,
+				"z": 0.0
+			},
+			"flipSwitchStand": false
+		},
+		"NAN_Sylva_Interchange_Yard_T1_00": {
+			"position": {
+				"x": 25726.72,
+				"y": 630.0,
+				"z": 481.23
+			},
+			"rotation": {
+				"x": 0.0,
+				"y": 53.8331833,
+				"z": 0.0
+			},
+			"flipSwitchStand": false
+		},
+		"NAN_Sylva_Interchange_Yard_T0_02": null
+	},
+	"segments": {
+		"STSIR_Sylva_Intechange_Revamp_yfdv": {
+			"style": "Standard",
+			"trackClass": "Mainline",
+			"startId": "Nl9k",
+			"endId": "Nqqs",
+			"priority": 0,
+			"speedLimit": 15,
+			"groupId": "sy-db"
+		},
+		"Sxwm": {
+			"style": "Standard",
+			"trackClass": "Mainline",
+			"startId": "Nqqs",
+			"endId": "Nys5",
+			"priority": 0,
+			"speedLimit": 15,
+			"groupId": "sy-db"
+		},
+		"STSIR_Sylva_Intechange_Revamp_xvym": {
+			"style": "Standard",
+			"trackClass": "Mainline",
+			"startId": "NTSIR_Sylva_Intechange_Revamp_efp0",
+			"endId": "NTSIR_Sylva_Intechange_Revamp_x2r5",
+			"priority": 0,
+			"speedLimit": 15,
+			"groupId": "sy-db"
+		},
+		"STSIR_Sylva_Intechange_Revamp_lvdu": {
+			"style": "Standard",
+			"trackClass": "Mainline",
+			"startId": "Nqqs",
+			"endId": "NTSIR_Sylva_Intechange_Revamp_efp0",
+			"priority": 0,
+			"speedLimit": 15,
+			"groupId": "sy-db"
+		},
+		"STSIR_Sylva_Intechange_Revamp_blsa": {
+			"style": "Standard",
+			"trackClass": "Mainline",
+			"startId": "Nl9k",
+			"endId": "Nd5f",
+			"priority": 0,
+			"speedLimit": 35,
+			"groupId": "sy-db"
+		},
+		"S4l1": {
+			"style": "Standard",
+			"trackClass": "Mainline",
+			"startId": "Nd5f",
+			"endId": "NTSIR_Sylva_Intechange_Revamp_us3d",
+			"priority": 0,
+			"speedLimit": 15,
+			"groupId": "sy-db"
+		},
+		"S0gi": {
+			"style": "Standard",
+			"trackClass": "Mainline",
+			"startId": "NTSIR_Sylva_Intechange_Revamp_us3d",
+			"endId": "Nmjn",
+			"priority": 0,
+			"speedLimit": 15,
+			"groupId": "sy-db"
+		},
+		"STSIR_Sylva_Intechange_Revamp_0nkv": {
+			"style": "Standard",
+			"trackClass": "Mainline",
+			"startId": "NTSIR_Sylva_Intechange_Revamp_gqms",
+			"endId": "NTSIR_Sylva_Intechange_Revamp_8o4t",
+			"priority": 0,
+			"speedLimit": 15,
+			"groupId": "sy-db"
+		},
+		"STSIR_Sylva_Intechange_Revamp_hqjm": {
+			"style": "Standard",
+			"trackClass": "Mainline",
+			"startId": "NTSIR_Sylva_Intechange_Revamp_us3d",
+			"endId": "NTSIR_Sylva_Intechange_Revamp_gqms",
+			"priority": 0,
+			"speedLimit": 15,
+			"groupId": "sy-db"
+		},
+		"STSIR_Sylva_Intechange_Revamp_7mq9": {
+			"style": "Standard",
+			"trackClass": "Mainline",
+			"startId": "Nlfg",
+			"endId": "NTSIR_Sylva_Intechange_Revamp_nxr7",
+			"priority": 0,
+			"speedLimit": 15,
+			"groupId": "sy-db"
+		},
+		"STSIR_Sylva_Intechange_Revamp_dlr4": {
+			"style": "Standard",
+			"trackClass": "Mainline",
+			"startId": "NTSIR_Sylva_Intechange_Revamp_nxr7",
+			"endId": "NTSIR_Sylva_Intechange_Revamp_t5d9",
+			"priority": 0,
+			"speedLimit": 15,
+			"groupId": "sy-db"
+		},
+		"STSIR_Sylva_Intechange_Revamp_s24n": {
+			"style": "Standard",
+			"trackClass": "Mainline",
+			"startId": "NTSIR_Sylva_Intechange_Revamp_t5d9",
+			"endId": "NTSIR_Sylva_Intechange_Revamp_7hv4",
+			"priority": 0,
+			"speedLimit": 15,
+			"groupId": "sy-db"
+		},
+		"STSIR_Sylva_Intechange_Revamp_dbf2": {
+			"style": "Standard",
+			"trackClass": "Mainline",
+			"startId": "NTSIR_Sylva_Intechange_Revamp_tztc",
+			"endId": "NTSIR_Sylva_Intechange_Revamp_7hv4",
+			"priority": 0,
+			"speedLimit": 15,
+			"groupId": "sy-db"
+		},
+		"STSIR_Sylva_Intechange_Revamp_pkyw": {
+			"style": "Standard",
+			"trackClass": "Mainline",
+			"startId": "NTSIR_Sylva_Intechange_Revamp_7hv4",
+			"endId": "NTSIR_Sylva_Intechange_Revamp_8o4t",
+			"priority": 0,
+			"speedLimit": 15,
+			"groupId": "sy-db"
+		},
+		"STSIR_Sylva_Intechange_Revamp_slym": {
+			"style": "Standard",
+			"trackClass": "Mainline",
+			"startId": "NTSIR_Sylva_Intechange_Revamp_4ezh",
+			"endId": "NTSIR_Sylva_Intechange_Revamp_pk4h",
+			"priority": 0,
+			"speedLimit": 15,
+			"groupId": "sy-db"
+		},
+		"STSIR_Sylva_Intechange_Revamp_xggs": {
+			"style": "Standard",
+			"trackClass": "Mainline",
+			"startId": "NTSIR_Sylva_Intechange_Revamp_1unk",
+			"endId": "NTSIR_Sylva_Intechange_Revamp_x2r5",
+			"priority": 0,
+			"speedLimit": 15,
+			"groupId": "sy-db"
+		},
+		"STSIR_Sylva_Intechange_Revamp_s259": {
+			"style": "Standard",
+			"trackClass": "Mainline",
+			"startId": "NTSIR_Sylva_Intechange_Revamp_pk4h",
+			"endId": "NTSIR_Sylva_Intechange_Revamp_1unk",
+			"priority": 0,
+			"speedLimit": 15,
+			"groupId": "sy-db"
+		},
+		"S3ns": {
+			"style": "Standard",
+			"trackClass": "Mainline",
+			"startId": "Nr1i",
+			"endId": "NTSIR_Sylva_Intechange_Revamp_4ezh",
+			"priority": 0,
+			"speedLimit": 15,
+			"groupId": "sy-db"
+		},
+		"Sv6m": {
+			"style": "Standard",
+			"trackClass": "Mainline",
+			"startId": "NTSIR_Sylva_Intechange_Revamp_4ezh",
+			"endId": "N2o5",
+			"priority": 0,
+			"speedLimit": 15,
+			"groupId": "sy-db"
+		},
+		"Sch6": {
+			"style": "Standard",
+			"trackClass": "Mainline",
+			"startId": "NTSIR_Sylva_Intechange_Revamp_nxr7",
+			"endId": "Nf8a",
+			"priority": 0,
+			"speedLimit": 15,
+			"groupId": "sy-db"
+		},
+		"Sdum": {
+			"style": "Standard",
+			"trackClass": "Mainline",
+			"startId": "Nlfg",
+			"endId": "Niid",
+			"priority": 0,
+			"speedLimit": 35,
+			"groupId": "sy-db"
+		},
+		"SAN_Sylva_Interchange_Yard_T0_00": {
+			"startId": "NTSIR_Sylva_Intechange_Revamp_t5d9"
+		},
+		"SAN_Sylva_Interchange_Yard_T0_02": null,
+		"SAN_Sylva_Interchange_Yard_T1_00": {
+			"startId": "NAN_Sylva_Interchange_Yard_T0_01"
+		}
+	},
+	"spans": {
+		"P7ec": {
+			"upper": {
+				"segmentId": "Sc01",
+				"distance": 0.0,
+				"end": "Start"
+			},
+			"lower": {
+				"segmentId": "Sc01",
+				"distance": 0.0,
+				"end": "End"
+			}
+		},
+		"Pin7": {
+			"upper": {
+				"segmentId": "STSIR_Sylva_Intechange_Revamp_0nkv",
+				"distance": 0.0,
+				"end": "Start"
+			},
+			"lower": {
+				"segmentId": "STSIR_Sylva_Intechange_Revamp_pkyw",
+				"distance": 0.0,
+				"end": "Start"
+			}
+		},
+		"Pfaj": {
+			"upper": {
+				"segmentId": "Sr78",
+				"distance": 0.0,
+				"end": "Start"
+			},
+			"lower": {
+				"segmentId": "Sr78",
+				"distance": 0.0,
+				"end": "End"
+			}
+		},
+		"PTSIR_Sylva_Intechange_Revamp_Track_4": {
+			"upper": {
+				"segmentId": "STSIR_Sylva_Intechange_Revamp_s259",
+				"distance": 0.0,
+				"end": "Start"
+			},
+			"lower": {
+				"segmentId": "STSIR_Sylva_Intechange_Revamp_xvym",
+				"distance": 0.0,
+				"end": "Start"
+			}
+		},
+		"PAN_Sylva_Interchange_Yard_00": {
+			"upper": {
+				"segmentId": "STSIR_Sylva_Intechange_Revamp_0nkv",
+				"distance": 0.0,
+				"end": "Start"
+			},
+			"lower": {
+				"segmentId": "STSIR_Sylva_Intechange_Revamp_pkyw",
+				"distance": 0.0,
+				"end": "Start"
+			}
+		}
+	},
+	"areas": {
+		"sylva": {
+			"industries": {
+				"sylva-interchange": {
+					"components": {
+						"t1": {
+							"trackSpans": [
+								{
+									"$add": "PTSIR_Sylva_Intechange_Revamp_Track_4"
+								}
+							]
+						},
+						"coal-e": {
+							"trackSpans": [
+								{
+									"$add": "PTSIR_Sylva_Intechange_Revamp_Track_4"
+								}
+							]
+						},
+						"diesel-e": {
+							"trackSpans": [
+								{
+									"$add": "PTSIR_Sylva_Intechange_Revamp_Track_4"
+								}
+							]
+						}
+					}
+				}
+			}
+		}
+	}
+}

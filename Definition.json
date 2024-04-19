@@ -1,7 +1,7 @@
 {
   "manifestVersion": 5,
-  "id": "Tcave.TcavesInterchangeContractPulpwood",
-  "name": "T-cave's Interchange Contract Pulpwood",
+  "id": "Tcave.TcavesSylvaInterchangeRevamped",
+  "name": "T-cave's Sylva Interchange Revamped",
   "version": "0.1.0",
   "requires": [
     {
@@ -10,10 +10,18 @@
     },
     {
       "id": "Zamu.StrangeCustoms",
-      "notBefore": "1.6"
+      "notBefore": "1.6.24103.2234"
     }
   ],
+  "conflictsWith": [
+    {"id": "Hunter.SylvaV2"},
+    {"id": "hjp766.HJAlinaSylYdFarAddon"},
+    {"id": "hjp766.HJAlinaSylYdAddon"}
+  ],
+  "LoadAfter": [
+    {"id": "AlinaNova21.AlinasMapMod"}
+  ],
   "mixintos": {
-    "game-graph": "file(TcavesInterchangeContractPulpwood.json)"
+    "game-graph": "file(TcavesSylvaInterchangeRevamped.json)"
   }
 }
