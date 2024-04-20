@@ -546,6 +546,18 @@
 				"distance": 0.0,
 				"end": "Start"
 			}
+		},
+		"PAN_Sylva_Wye_00": {
+		  "upper": {
+			"segmentId": "SAN_Sylva_Interchange_Yard_T1_02",
+			"end": "Start",
+			"distance": 0
+		  },
+		  "lower": {
+			"segmentId": "SAN_Sylva_Interchange_Yard_T1_02",
+			"end": "End",
+			"distance": 0
+		  }
 		}
 	},
 	"areas": {

@@ -2,7 +2,7 @@
   "manifestVersion": 5,
   "id": "Tcave.TcavesSylvaInterchangeRevamped",
   "name": "T-cave's Sylva Interchange Revamped",
-  "version": "0.1.0",
+  "version": "0.1.1",
   "requires": [
     {
       "id": "railloader",
