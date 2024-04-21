@@ -2,7 +2,8 @@
   "manifestVersion": 5,
   "id": "Tcave.TcavesSylvaInterchangeRevamped",
   "name": "T-cave's Sylva Interchange Revamped",
-  "version": "0.1.1",
+  "version": "0.1.2",
+  "priority": 100,
   "requires": [
     {
       "id": "railloader",
@@ -17,9 +18,6 @@
     {"id": "Hunter.SylvaV2"},
     {"id": "hjp766.HJAlinaSylYdFarAddon"},
     {"id": "hjp766.HJAlinaSylYdAddon"}
-  ],
-  "LoadAfter": [
-    {"id": "AlinaNova21.AlinasMapMod"}
   ],
   "mixintos": {
     "game-graph": "file(TcavesSylvaInterchangeRevamped.json)"

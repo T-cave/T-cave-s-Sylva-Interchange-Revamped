@@ -487,19 +487,7 @@
 		}
 	},
 	"spans": {
-		"P7ec": {
-			"upper": {
-				"segmentId": "Sc01",
-				"distance": 0.0,
-				"end": "Start"
-			},
-			"lower": {
-				"segmentId": "Sc01",
-				"distance": 0.0,
-				"end": "End"
-			}
-		},
-		"Pin7": {
+		"Pfaj": {
 			"upper": {
 				"segmentId": "STSIR_Sylva_Intechange_Revamp_0nkv",
 				"distance": 0.0,
@@ -511,16 +499,28 @@
 				"end": "Start"
 			}
 		},
-		"Pfaj": {
+		"Pin7": {
+			"upper": {
+				"segmentId": "Sc01",
+				"distance": 0.0,
+				"end": "End"
+			},
+			"lower": {
+				"segmentId": "Sc01",
+				"distance": 0.0,
+				"end": "Start"
+			}
+		},
+		"P7ec": {
 			"upper": {
 				"segmentId": "Sr78",
 				"distance": 0.0,
-				"end": "Start"
+				"end": "End"
 			},
 			"lower": {
 				"segmentId": "Sr78",
 				"distance": 0.0,
-				"end": "End"
+				"end": "Start"
 			}
 		},
 		"PTSIR_Sylva_Intechange_Revamp_Track_4": {
